@@ -1,0 +1,9 @@
+The following items cannot be included in this cypress internal qa automation package and must be available/installed in your 
+LOCAL WORKSPACE:
+
+1. Visual Studio Code
+2. NodeJS
+3. Github Account Signed In your VSCode
+
+NOTE: As an experimental version control for the new REPO Format, Project Folder must not contain any installed Cypress as
+this may conflict with the cypress included in the official project folder version
