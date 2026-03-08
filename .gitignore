@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Cypress Outputs
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Environment/Secrets
+.env
